@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <Windows.h>
 
-int main(int argc, char** argv)
+int main01(int argc, char** argv)
 {
 	SetConsoleTitleA("绕过信任模式使用n卡滤镜");
 	puts("绕过信任模式 BY 宇宙遨游");
